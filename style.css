@@ -1,0 +1,29 @@
+body{
+    font-family: 'Work Sans', sans-serif;
+}
+.bgbody{
+    background-color: rgb(247, 244, 244);
+}
+.imge{
+    width: 20px;
+    height: 20px;
+}
+.alogo{
+    height: 35px;
+    width: 35px;
+    color: rgb(85, 85, 207);
+}
+.about{
+    font-size: 12px;
+    width: 100px;
+    height: 35px;
+}
+.ptxt{
+    font-size: 9px;
+    display: flex;
+    justify-content: center;
+    margin-top:-6px;
+}
+.smtxt{
+    font-size:11px;
+}
